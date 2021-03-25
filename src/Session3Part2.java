@@ -35,14 +35,14 @@ public class Session3Part2 {
 
 
 
-    private static Order R = new Order (10,  100,  20,  4);
+    private static Order R = new Order (10,  100,  20,  4, 0.0);
 
     public static void main(String[] args) {
 
         ProductType product= ProductType.Food;
 
         Function<Integer, Map<String,Double>> P=
-                (product==ProductType.Food)?ProductParametersFood
+                (product.equals(ProductType.Food))?ProductParametersFood
                         :((product==ProductType.Beverage)?ProductParametersBeverage
                         :ProductParametersRawMaterial);
 
