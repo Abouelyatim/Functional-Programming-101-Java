@@ -32,10 +32,6 @@ public class Session1_2 {
                 }).collect(Collectors.toList());
 
 
-        //declarative using composition
-
-
-
     }
 
 
