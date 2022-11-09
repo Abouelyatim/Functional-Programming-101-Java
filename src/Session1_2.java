@@ -7,7 +7,8 @@ public class Session1_2 {
 
     private static List<Integer> myData=  Arrays.asList(7,4,5,6,3,8,10);
     public static void main(String[] args) {
-
+        long remainder10 = 56 / 10;
+        System.out.println(remainder10);
         //imperative
         System.out.println("imperative");
         for (Integer value:myData

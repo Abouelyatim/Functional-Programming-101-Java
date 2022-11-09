@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="76aa4798-8abb-466b-b17a-d2df96c79aed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FunctionalPrograming/META-INF/FunctionalPrograming.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/FunctionalPrograming/Session5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/FunctionalPrograming/Session5.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Session1_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Session1_2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,10 +26,17 @@
   </component>
   <component name="ProjectId" id="1qDJ68nFpE6pIiE6OWBTtpPbTFy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-mvc-rest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -46,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Session5">
+  <component name="RunManager" selected="Application.Session1_2">
     <configuration name="Session1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Session1_2" />
       <module name="FunctionalPrograming" />
@@ -84,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Session1_2" />
         <item itemvalue="Application.Session5" />
         <item itemvalue="Application.Session4" />
         <item itemvalue="Application.Session3Part2" />
         <item itemvalue="Application.Session3Part1" />
-        <item itemvalue="Application.Session1_2" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +112,16 @@
       <option name="presentableId" value="Default" />
       <updated>1616608048038</updated>
       <workItem from="1616608050659" duration="21433000" />
-      <workItem from="1616691869289" duration="5160000" />
+      <workItem from="1616691869289" duration="5687000" />
+      <workItem from="1617014204032" duration="803000" />
+      <workItem from="1617106055297" duration="123000" />
+      <workItem from="1622888682916" duration="5361000" />
+      <workItem from="1623852192646" duration="902000" />
+      <workItem from="1624013767891" duration="776000" />
+      <workItem from="1624643551632" duration="1039000" />
+      <workItem from="1638976306330" duration="707000" />
+      <workItem from="1643116987231" duration="677000" />
+      <workItem from="1643193029293" duration="1254000" />
     </task>
     <servers />
   </component>
